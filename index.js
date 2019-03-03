@@ -8,6 +8,7 @@ module.exports = function() {
 			'@babel/env',
 			'@babel/react',
 			'@babel/typescript',
+			'@babel/flow',
 		]
   };
 }
