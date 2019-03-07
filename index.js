@@ -9,6 +9,7 @@ module.exports = function() {
 			'@babel/react',
 			'@babel/typescript',
 			'@babel/flow',
+			'module:metro-react-native-babel-preset'
 		]
   };
 }
